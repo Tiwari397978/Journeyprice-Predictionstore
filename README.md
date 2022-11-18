@@ -15,6 +15,7 @@
 
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+![Screenshot_20221118_230625](https://user-images.githubusercontent.com/76203729/202767415-04ab9491-24a9-4ce6-b77d-25b75628d79c.png)
 
 
 ## Overview
